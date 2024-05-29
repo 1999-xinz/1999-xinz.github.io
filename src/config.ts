@@ -15,7 +15,7 @@ export const siteConfig: SiteConfig = {
     fixed: false,     // Hide the theme color picker for visitors
   },
   banner: {
-    enable: true,
+    enable: false,
     src: '/images/img-banner.jpeg',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   },
   favicon: [    // Leave this array empty to use the default favicon
