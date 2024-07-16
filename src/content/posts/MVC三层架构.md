@@ -19,18 +19,18 @@ draft: false
 
 ## 1-三层架构
 
-**1、***表示层（Presentation Layer）**：
+1、**表示层（Presentation Layer）**：
 
 * **包含UI组件和视图逻辑。**
 * **通常对应MVC架构中的视图。**
 
-**2、***业务逻辑层（Business Logic Layer）**：
+2、**业务逻辑层（Business Logic Layer）**：
 
 * **处理具体的业务规则和逻辑。**
 * **在MVC架构中，可以与控制器或模型部分结合。**
 * **执行应用程序的核心功能。**
 
-**3、***数据访问层（Data Access Layer）**：
+3、**数据访问层（Data Access Layer）**：
 
 * **负责与数据库或其他数据存储交互。**
 * **包含数据库操作的具体实现细节。**
