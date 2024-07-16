@@ -1,13 +1,12 @@
-```
+---
 title: MVC三层架构
 published: 2024-07-16
-description: MVC三层架构的认识和理解
+description: 'MVC三层架构的认识和理解'
 image: ''
 tags: [后端]
-category: Front-end
+category: '后端'
 draft: false
-```
-
+---
 # MVC三层架构
 
 **MVC（Model-View-Controller）是一种经典的软件架构模式，通过将应用程序分成三个主要部分来实现分离关注点：模型（Model）、视图（View）和控制器（Controller）。**
