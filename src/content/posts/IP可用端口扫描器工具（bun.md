@@ -49,7 +49,7 @@ ps: 有帮助的话，可以给个stars，谢谢
 
 `bun start scan <ip> <portrange>`
 
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/980c6fb437ba4a12b1f02a18830e8e2a.png#pic_center)
+![1730855240965](image/IP可用端口扫描器工具（bun/1730855240965.png)
 
 > 1、start是package.json中script的配置。
 >
@@ -156,4 +156,4 @@ yargs(
 
 `node index.js scan <ip> <portrange>`
 
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/4f26bc1d6d3149d1ac90fe1960babffe.png#pic_center)
+![1730855274497](image/IP可用端口扫描器工具（bun/1730855274497.png)
